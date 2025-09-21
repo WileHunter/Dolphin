@@ -1,4 +1,4 @@
-# Dolphin v1.0 by wilehunter
+# Dolphin v1.0 
 
 一个高可用的 HTTP/SOCKS5 代理池，具有强大的图形化界面和多种代理获取方式。
 
@@ -127,4 +127,5 @@ xdl.py 的逻辑相对简单，主要依赖于为每个代理源预设的协议�
 \- [@wilehunter](https://github.com/wilehunter)
 
 \- [@11firefly11](https://github.com/11firefly11)
+
 
