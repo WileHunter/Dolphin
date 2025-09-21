@@ -23,6 +23,7 @@
 - 调整UI界面
 - 调整筛选功能
 - 保留所有代理ip，包括不可用代理。
+  ![image-20250704183715177](https://github.com/WileHunter/Dolphin/blob/main/Snipaste_2025-09-21_16-16-50.png)
 
 ## 🚀 如何使用 (图形界面)
 
@@ -127,5 +128,6 @@ xdl.py 的逻辑相对简单，主要依赖于为每个代理源预设的协议�
 \- [@wilehunter](https://github.com/wilehunter)
 
 \- [@11firefly11](https://github.com/11firefly11)
+
 
 
